@@ -5,3 +5,8 @@ git commit -m "message" - to save the changes
 git log - to see which user change the git repo
 git remote add origin sshkey/http url - verifyed user upload code in github
 git push -u origin master - to add your repo to github 
+
+
+
+
+git push --set-upstream origin <branch name> - to push your branch in github 
