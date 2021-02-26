@@ -1,4 +1,7 @@
 Git init - to inislize your repo to git repo 
+Git add filename - to add a file 
+Git add . - to add all files 
+git commit -m "message" - to save the changes
 git log - to see which user change the git repo
 git remote add origin sshkey/http url - verifyed user upload code in github
 git push -u origin master - to add your repo to github 
