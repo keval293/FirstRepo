@@ -1,1 +1,2 @@
 Git init - to inislize your repo to git repo 
+git log - to see which user change the git repo
